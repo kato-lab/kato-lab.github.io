@@ -63,7 +63,7 @@ permalink: /publications/
 5. Takeshi Shakunaga, Yasuhiro Mukaigawa, Takekazu Kato, and Shohei Oki. Person Detection, Tracking, Registration and Recognition by Cooperative Distributed Vision. In Second International Workshop on Cooperative Distributed Vision, pp. 169–186, (1998).
 
 # 国内会議
-
+1. Rodrigo Verschae, Li Li, Shohei Nobuhara, Takekazu Kato: Daytime Sky Image Model and Prediction, 第20回画像の認識・理解シンポジウム (MIRU2017), 2017.8.7-10
 1. 米谷竜，川嶋宏彰，加藤丈和，松山隆司：映像の顕著性変動モデルを用いた視聴者の集中状態推定,第15回画像の認識・理解シンポジウム(MIRU2012),2012.8.
 2. 林宗一郎, 加藤丈和, 松山隆司. 分散スマートタップ群を用いた協調的計測による電力フロー推定2　—ネットワークトモグラフィによる電気配線のトポロジー推定–. 電子情報通信学会2010総合大会　シンポジウムセッション「情報通信とエネルギー管理の統合技術」, No. BS-8-6, (2010).
 3. 加藤丈和, 林宗一郎, 松山隆司. 分散スマートタップ群を用いた協調的計測による電力フロー推定１　-間歇的電流計測からの連続的電力変動推定-. 電子情報通信学会2010総合大会　シンポジウムセッション「情報通信とエネルギー管理の統合技術」, No. BS-8-5, (2010).
