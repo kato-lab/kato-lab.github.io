@@ -24,6 +24,13 @@ permalink: /publications/
 16. 加藤丈和, 向川康博, 尺長健. 安定な顔認識のための分散協調登録. 電子通信学会論文誌 D-II, Vol. J84-D-II, No. 3, pp. 500–508, (2001).
 
 # 国際会議
+1. Saher Javaid, Takekazu Kato: ID-based power flow coloring for power fluctuation management: concept and classification, IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 2017.6.12-14.
+2. Saher Javaid, Takekazu Kato: Real-time power supply and demand mediation algorithm for energy on demand system, IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 2017.6.12-14.
+3. Saher Javaid, Takekazu Kato: Agent-based feedback control for fluctuating power sources and loads: watch TV with PV power, IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW), 2017.6.12-14.
+4. Saher Javaid, Yuhei Kurose, Takekazu Kato, and Takashi Matsuyama: Cooperative distributed control implementation of the power flow coloring over a Nano-grid with fluctuating power loads, IEEE PES PowerTech Manchester, United Kingdom, 2017.6.18-22.
+5. Rodrigo Verschae, Advances on Coordinated Energy Management in Prosumer Communities, 7th International Symposium on Energy (Energy7), Manchester UK, 2017.8.13-17.
+6. Rodrigo Verschae, Li Li, Shohei Nobuhara, Takekazu Kato: A Sky Image Analysis System for Sub-minute PV Prediction, The International 2017 IEEE Photovoltaic Specialists Conference, Washington DC, USA, 2017.6.25-30.
+7. Takashi Matsuyama and Saher Javaid: The Power Flow Coloring: Concept and Implementation Methods, 229th Electro Chemical Society Meeting, Grand Challenges in Energy Conversion and Storage 6, Sandiego, CA, 2016.6.1. (INVITED TALK)
 1. Rodrigo Verschae, Hiroaki Kawashima, Takekazu Kato, and Takashi Matsuyama: A Distributed Hierarchical Architecture for Community-based Power Balancing, 5th IEEE International Conference on Smart Grid Communications(SmartGridComm 2014), pp. 169-175, Venice, Italy, 2014.11.3-6. (Acceptance rate: 166/399=41.6%)
 2. Rodrigo Verschae, Hiroaki Kawashima, Takekazu Kato, and Takashi Matsuyama: A Distributed Coordination Framework for On-line Scheduling and Power Demand Balancing of Households Communities, 13th European Control Conference (ECC 2014), pp. 1655-1662, Strasbourg, France, 2014.6.24-27. (Acceptance rate: 484/803=60.27%)
 3. Xinpeng Zhang, Takekazu Kato, and Takashi Matsuyama: Learning a Context-aware Personal Model of Appliance Usage Patterns in Smart House, Proc. 2014 IEEE INNOVATIVE SMAT GRID TECHNOLOGIES - ASIA (ISGT-Asia 2014), ISGT14 1569871535, pp. 1-6, Kuala Lumpur, Malaysia, 2014.5.21. (Acceptance rate: 157/221=71%)
