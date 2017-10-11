@@ -6,7 +6,6 @@ permalink: /introduction/
 
 ![顔画像]({{site.baseurl}}/images/kato_face.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBeG68k9hRQ" frameborder="0" allowfullscreen></iframe> 
 # 基本情報
 
 - 氏名：加藤丈和
