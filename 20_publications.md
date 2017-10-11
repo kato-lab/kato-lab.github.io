@@ -4,7 +4,9 @@ title: 研究成果
 permalink: /publications/
 ---
 # 学術論文
-1. Rodrigo Verschae, Takekazu Kato, and Takashi Matsuyama: Energy Management in Prosumer Communities: A Coordinated Approach, Energies, Volume 9, Issue 7, Number 562, 2016.7.　DOI: dx.doi.org/10.3390/en9070562
+1. Saher Javaid, Takekazu Kato, and Takashi Matsuyama: Power Flow Coloring System over a Nano-Grid with Fluctuating Power Sources and Loads, IEEE Transactions on Industrial Informatics, vol. PP, no. 99, pp. 1-1. doi: 10.1109/TII.2017.2733550
+1. Saher Javaid, Yuhei Kurose, Takekazu Kato, and Takashi Matsuyama: Cooperative Distributed Control Implementation of the Power Flow Coloring Over a Nano-Grid With Fluctuating Power Loads, IEEE Transactions on Smart Grid, vol. 8, issue 1, pp. 342-352, 2017.1.
+2. Rodrigo Verschae, Takekazu Kato, and Takashi Matsuyama: Energy Management in Prosumer Communities: A Coordinated Approach, Energies, Volume 9, Issue 7, Number 562, 2016.7.　DOI: dx.doi.org/10.3390/en9070562
 2. Rodrigo Verschae, Hiroaki Kawashima, Takekazu Kato, and Takashi Matsuyama: Coordinated energy management for inter-community imbalance minimization, Renewable Energy, Volume 87, Part 2, March 2016, Pages 922-935, ISSN: 0960-1481.
 3. Xinpeng Zhang, Yusuke Yamada, Takekazu Kato, and Takashi Matsuyama: A Novel Method for the Bi-directional Transformation between Human Living Activities and Appliance Power Consumption Patterns, IEICE Transactions on Information and Systems, Vol.E97-D, No.2, pp.275-284, 2014.02.
 4. 米谷竜，川嶋宏彰，加藤丈和，松山隆司：映像の顕著性変動モデルを用いた視聴者の集中状態推定，電子情報通信学会論文誌，J96-D(8), pp.1675-1687, 2013.8 (第15回 画像の認識・理解シンポジウム推薦論文).
