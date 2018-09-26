@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: 高周波回路
-permalink: /introduction/
+permalink: /highfreq/
 ---
 
 # 高周波回路
