@@ -7,7 +7,7 @@ permalink: /ICT/
 # 情報通信実験
 
 ## 配布物
-* [ソフトウェア](https://sistkanri-my.sharepoint.com/:f:/g/personal/kato_takekazu_sist_ac_jp/Em-OjVP2KVRDqAMHFIHn-B8BaT6MA8JZVo6M0HarApXx5w?e=rjWR4Z)
+* [ソフトウェア](https://sistkanri-my.sharepoint.com/:f:/g/personal/kato_takekazu_sist_ac_jp/Em-OjVP2KVRDqAMHFIHn-B8Ba5t9PH8eGrHUQ3Fpm9IJJQ?e=6obHOg)
 
 # 第１回
 * [ガイダンス](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ESBIAm4JasxNhQsBG6z_XRUBOSsB-akFO7gp-IsuApZmKg?e=rKNy51)
