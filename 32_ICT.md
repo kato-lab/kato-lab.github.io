@@ -7,7 +7,7 @@ permalink: /ICT/
 # 情報通信実験
 
 ## 配布物
-* [ソフトウェア](https://sistkanri-my.sharepoint.com/:f:/g/personal/kato_takekazu_sist_ac_jp/Em-OjVP2KVRDqAMHFIHn-B8Ba5t9PH8eGrHUQ3Fpm9IJJQ?e=6obHOg)
+* [ソフトウェア](https://sistkanri-my.sharepoint.com/:f:/g/personal/kato_takekazu_sist_ac_jp/Em-OjVP2KVRDqAMHFIHn-B8Ba5t9PH8eGrHUQ3Fpm9IJJQ?e=6obHOg) Office365のアカウントとパスワードで認証してください．
 
 # 第１回
 * [ガイダンス](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ESBIAm4JasxNhQsBG6z_XRUBOSsB-akFO7gp-IsuApZmKg?e=rKNy51)
@@ -17,3 +17,4 @@ permalink: /ICT/
 
 # 第２回
 * [実験テキスト2](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ET_ThQNhc7dJqVs_-jRIe7MBwhhW8aVkcbHeIYnJ_RZJ6w?e=WsIy3u)
+* [NJM2670D2データシート](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/EYYynqRgQw1Igm6-S83_OX8BeAaApMlLzLfbaNHSdQIPLA?e=oMNqI7)
