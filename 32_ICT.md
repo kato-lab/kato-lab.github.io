@@ -18,3 +18,13 @@ permalink: /ICT/
 # 第２回
 * [実験テキスト2](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ET_ThQNhc7dJqVs_-jRIe7MBwhhW8aVkcbHeIYnJ_RZJ6w?e=WsIy3u)
 * [NJM2670D2データシート](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/EYYynqRgQw1Igm6-S83_OX8BeAaApMlLzLfbaNHSdQIPLA?e=oMNqI7)
+
+# 第３回
+* [実験テキスト３](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/EQbnycHT7pRGoZlnZSlUjbsBTG8aQydrpL9XVhjXPTHUaw?e=85dC6W)
+* [TCST2202　Fritzing用パーツデータ](https://sistkanri-my.sharepoint.com/:u:/g/personal/kato_takekazu_sist_ac_jp/Ef-z2kXpbwtBj9fUPB58BoABX36Q1vIt-qWP7EYgMROzjw?e=hyXnCn)
+* [TCST2202データシート](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ESxtwGVgyYFAsPrzuVKaIJABY1sTbNWxBvEx23kSqYP0vg?e=Ij7TVz)
+* [エンコーダ計測プログラムの雛形](https://sistkanri-my.sharepoint.com/:u:/g/personal/kato_takekazu_sist_ac_jp/EXKpcgpJhw5HtDbrXPDYjTwBAr3V9qrhvat4asPkBBuolA?e=LWDZbj)
+* [速度フィードバック制御プログラム雛形](https://sistkanri-my.sharepoint.com/:u:/g/personal/kato_takekazu_sist_ac_jp/EaeEM3lkBnZFtiLzz-NQm9gBqIB48BCUP1SVm4Gjr275fw?e=LUh9S1)
+
+# 第４回
+* [実験テキスト４](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/ET98hC3CZR9Al_cG7E2nOlYBkzA1Dfp793VD3B_zURzZpw?e=vBykL6)
