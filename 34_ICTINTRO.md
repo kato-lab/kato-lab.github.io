@@ -7,7 +7,7 @@ permalink: /ICTINTRO/
 # 情報通信概論
 リンク先はOffice365アカウント（大学のメールアカウント，パスワード）でログインしてアクセスします．
 
-# 第１回
+# 第１回　ガイダンス，プログラムとは
 * [情報通信概論１](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/Eb1GDnuVCblBkT1XboCY1zsBJxlkDRCmsEGnxpudTAE-Nw?e=4plhhy)
 * 課題
   * 次の計算をするTD4のマシン語プログラムを作成しなさい．
@@ -20,7 +20,7 @@ permalink: /ICTINTRO/
   * iLearnで提出（4月18日まで），iLearnのアカウントが間に合わない人はメールで提出
     * kato.takekazu@sist.ac.jp
     
-# 第３回
+# 第２回　プログラミング言語，C言語の基本的な構造
 * 復習：
   * 前回のスライド資料を見ながら課題をする
   * 教科書5.2章を読む
