@@ -5,6 +5,7 @@ permalink: /ICTINTRO/
 ---
 
 # 情報通信概論
+iLearnのアカウントも用意できたので，最新版はiLearn参照
 
 # 第１回　ガイダンス，プログラムとは
 * [情報通信概論１](https://sistkanri-my.sharepoint.com/:b:/g/personal/kato_takekazu_sist_ac_jp/Eb1GDnuVCblBkT1XboCY1zsBJxlkDRCmsEGnxpudTAE-Nw?e=4plhhy)
