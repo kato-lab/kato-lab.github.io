@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 情報通信実験
+title: 応用電子工学実験
 permalink: /ICT/
 ---
 
-# 情報通信実験
+# 応用電子工学実験
 
 ## 配布物
 * [ソフトウェア](https://sistkanri-my.sharepoint.com/:f:/g/personal/kato_takekazu_sist_ac_jp/Em-OjVP2KVRDqAMHFIHn-B8Ba5t9PH8eGrHUQ3Fpm9IJJQ?e=6obHOg) Office365のアカウントとパスワードで認証してください．
