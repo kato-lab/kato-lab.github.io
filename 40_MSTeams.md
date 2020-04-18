@@ -3,9 +3,6 @@ layout: page
 title: Microsoft Teamsのインストール方法
 permalink: /MSTeams/
 ---
-
-# Microsoft Teamsのインストール方法
-
 ## はじめに
 Microsoft Teamsはグループチャットやビデオ会議など、ネットワークでグループワークを行うソフトウェアです。学生ポータルやメールで使っているOffice365アカウントで無料で使えます．
 
