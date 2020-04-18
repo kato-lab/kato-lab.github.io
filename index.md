@@ -4,5 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-[予定表](https://outlook.office365.com/owa/calendar/b4145ccd10214d13a7f15f8358b43b42@sist.ac.jp/9867cdcd5ca842ee86b27d235823de752170464291329089683/calendar.html)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBeG68k9hRQ" frameborder="0" allowfullscreen></iframe>
+
+質問はLINE公式アカウント
+<a href="https://lin.ee/qFNTb3A"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
