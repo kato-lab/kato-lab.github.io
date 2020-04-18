@@ -1,4 +1,5 @@
 ---
+layout: page
 title: MSTeamsをPCで使う
 permalink: /MSTeams/PC.html
 ---
