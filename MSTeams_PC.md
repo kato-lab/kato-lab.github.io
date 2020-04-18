@@ -8,7 +8,7 @@ permalink: /MSTeams/PC.html
 
 1. [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"} をクリックして開く(新しいタブが開きます)。
 2. 配布されているOffice365アカウント（学生ポータルと同じ 学籍番号.イニシャル@sist.ac.jpのアドレス）を入力し、次へボタンを押す。
-![アカウント入力]({{site.baseurl}}/images/PC1.png)
+![アカウント入力](/images/PC1.png)
 3.
 
 
