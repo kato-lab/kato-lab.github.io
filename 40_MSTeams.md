@@ -9,6 +9,5 @@ Microsoft Teamsはグループチャットやビデオ会議など、ネット�
 ## インストール方法
 パソコンの他、iPhoneやAndroidのスマホで利用できます。それぞれのインストール方法を説明するので、それぞれ自分の使う環境に合わせたリンクをクリックしてください。
 - [パソコンの場合](/MSTeams/PC.html)
-- [iPhone (iPad)の場合](/MSTeams/iOS.html)
-- [Android (iPhone, iPad以外のスマホ)の場合](/MSTeams/Android.html)
+- [スマートホンの場合](/MSTeams/Phone.html)
 
