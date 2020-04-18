@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MS Teamsのスマホへのインストール
+permalink: /MSTeams/Phone.html
 ---
 
 <a href="https://apps.apple.com/jp/app/microsoft-teams/id1113153706?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ja-jp/badge-lrg.svg?releaseDate=2016-11-02&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
