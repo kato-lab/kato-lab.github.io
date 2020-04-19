@@ -20,6 +20,6 @@ MS Teamsはグループチャットやビデオ会議など、ネットワーク
 
 あるいはTwitterにダイレクトメッセージ
 
-<a href="https://twitter.com/messages/compose?recipient_id=@SIST_EE&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="" data-show-count="false">Message @</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/SIST_EE?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SIST_EE</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 どちらも使えない場合は、このページの一番下のメールアドレス(アドレスの（at）を@に変える）にメールを送ってください．
