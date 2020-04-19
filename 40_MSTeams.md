@@ -18,6 +18,6 @@ MS Teamsはグループチャットやビデオ会議など、ネットワーク
 <div class="line-it-button" data-lang="ja" data-type="friend" data-lineid="@507pxrtn" data-count="true" data-home="true" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 
-あるいはTwitter
+あるいはTwitterにダイレクトメッセージ
+
 <a href="https://twitter.com/messages/compose?recipient_id=@SIST_EE&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="" data-show-count="false">Message @</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-にダイレクトメッセージ
