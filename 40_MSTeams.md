@@ -16,6 +16,7 @@ MS Teamsはグループチャットやビデオ会議など、ネットワーク
 - [パソコンの場合](/MSTeams/PC.html)
 - [スマートホンの場合](/MSTeams/Phone.html)
 
+
 わからないことがあれば、電気電子工学LINE公式アカウント
 <div class="line-it-button" data-lang="ja" data-type="friend" data-lineid="@507pxrtn" data-count="true" data-home="true" style="display: none;"></div>
  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
