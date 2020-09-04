@@ -12,13 +12,11 @@ summary:
 M5Stack(M5SickC)のプログラムをMakecode風にビジュアルに開発できる[UIFlow](https://m5stack.github.io/UIFlow_doc/ja/)を試しています．これはM5StickCのHATやGroveのUnit用のライブラリが組み込まれていて大変便利です．
 
 迷路探索ロボットの実験のために[RoverC](https://www.switch-science.com/catalog/6206/)と[ToF距離センサユニット](https://www.switch-science.com/catalog/5219/)を組み合わせて次のような簡単なプログラムで試してみました．
-
-![プログラム](images/2020-09-04-09-27-31.png)
+![プログラム](/images/2020-09-04-09-27-31.png)
 
 しかしこれでは，"I2C bus error (19)"と出て同時に使えません．距離センサの読み取りとRoverCへの動作命令の間に50ミリ秒程度のウェイトをいれるとうまくいく場合はありますが，エラーが出ることもあり，どうにも不安定です．
 
 調べてみても，なかなか同じような問題に当たっている人がいないようです．[ソースコードらしきもの](https://github.com/m5stack/UIFlow-Code/blob/master/units/_tof.py)を発見してみてみると，70ミリ秒ごとのタイマー割り込みで値の取得をしているようです．どうもこのタイマー割り込みが怪しそうということで，tof0.deinit()でタイマーをとめて，tof0._update()をしてから値を取得するようにすると．．．ビンゴ！．エラーが出なくなり，またセンサの値の更新も高速になりました．
-
-![プログラム2](images/2020-09-04-09-30-19.png)
+![プログラム2](/images/2020-09-04-09-30-19.png)
 
 最終的にこの_tof.pyを参考にしながら，タイマー割り込みを使わないCustom Blockを作成しました．
