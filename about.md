@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 order: 2
 ---
-[静岡理工科大学](http://www.sist.ac.jp/)
+[京都橘大学](https://www.tachibana-u.ac.jp/)
