@@ -8,6 +8,7 @@ permalink: /introduction/
 
 # 基本情報
 
+
 - 氏名：加藤丈和
 - 京都橘大学　工学部　情報工学科　教授
 - Email: kato-ta(at)tachibana-u.ac.jp, t.kato(at)ieee.org
