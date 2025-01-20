@@ -17,6 +17,6 @@ layout: home
   - 新学部４年：8名
 - 部屋番号：H612（教員）、H602（学生）
 ![部屋の場所]({{site.baseurl}}/images/room.jpg)
-## 研究テーマ
-- 
+## 研究室紹介（京都橘大学学生向け）
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/4YUig3_UPn4](https://tachibanau.sharepoint.com/:v:/s/msteams_994be0/EQYQrdutSFlIrYFlV79Zd2QBOEs1jwDwPKabCbR2-HZrTg?e=sermzR)" frameborder="0" allowfullscreen></iframe>
 
