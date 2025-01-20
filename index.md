@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# 加藤丈和研究室の紹介
 
-質問はLINE公式アカウント
-<a href="https://lin.ee/qFNTb3A"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
+# 基本情報
