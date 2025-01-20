@@ -1,8 +1,7 @@
 
 title: 加藤丈和研究室
 email: kato-ta(at)tachibana-u.ac.jp
-description: > # this means to ignore newlines until "baseurl:"
-  京都橘大学　工学部　情報工学科
+description: 京都橘大学　工学部　情報工学科
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -10,4 +9,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-feed
 #theme: minima
