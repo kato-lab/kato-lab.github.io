@@ -4,7 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# 加藤丈和研究室の紹介
+
+# 研究室紹介
 
 ## 基本情報
 
