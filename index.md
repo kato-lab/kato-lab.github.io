@@ -22,7 +22,7 @@ layout: home
 ## [研究紹介](./research/)
 
 ## 研究室紹介（京都橘大学学生向け）
-リンク先の動画は京都橘学生のみ閲覧できます（認証あり）
+リンク先の動画は京都橘学生のみ（Microsoft365に大学アカウントでログインすると閲覧できます）。
 - 紹介動画（14分）
 <iframe src="https://tachibanau.sharepoint.com/sites/msteams_994be0/_layouts/15/embed.aspx?UniqueId=f61a58db-c715-459b-a525-e0cafba18798&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="研究室紹介（加藤）.mp4"></iframe>
 
