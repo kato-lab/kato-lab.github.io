@@ -19,7 +19,8 @@ layout: home
   
   ![部屋の場所]({{site.baseurl}}/images/room.jpg)
 
-## [研究紹介](./research/)
+## 研究紹介
+- [研究紹介ページ](./research/)
 
 ## 研究室紹介（京都橘大学学生向け）
 リンク先の動画は京都橘学生のみ（Microsoft365に大学アカウントでログインすると閲覧できます）。
